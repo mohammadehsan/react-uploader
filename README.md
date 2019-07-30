@@ -19,13 +19,8 @@ A flexible multi language React component for uploading files
 ## Getting Started
 #### Installation
 ```bash
-$ npm i reactjs-uploader
-```
-#### How To Use
-first of all, you need to import this package into your component after that, add uploader tag into your source code, and set your customize attributes like autoUpload and etc...
-
-```bash
-<Uploader uploadUrl="your_Custom_Upload_Url" autoUpload/>
+$ npm install
+$ npm start
 ```
 
 Contact Us: <br>
